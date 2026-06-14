@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "cliente": "Sofía Martínez",
+    "servicio": "Corte de pelo",
+    "profesional": "Marcos",
+    "fecha": "2026-06-20",
+    "hora": "15:30",
+    "estado": "confirmado"
+  },
+  {
+    "id": 2,
+    "cliente": "Juan Pérez",
+    "servicio": "Coloración",
+    "profesional": "Camila",
+    "fecha": "2026-06-20",
+    "hora": "17:00",
+    "estado": "pendiente"
+  }
+]

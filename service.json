@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Corte de pelo", "duracion": 30, "precio": 2500 },
+  { "id": 2, "nombre": "Coloración", "duracion": 60, "precio": 5000 },
+  { "id": 3, "nombre": "Afeitado", "duracion": 20, "precio": 1500 }
+]
