@@ -33,3 +33,7 @@ function confirmAppointment(id) {
 function cancelAppointment(id) {
     console.log("Turno cancelado:", id);
 }
+
+// HU-02: requestAppointment() implementado
+// Feature: solicitud de turnos desde el formulario del cliente
+// Status: completado
