@@ -47,3 +47,23 @@ v0.1 — Objetivo general del proyecto
 ## Versión
 
 v0.2 — Análisis de stakeholders
+
+---
+
+## Metodología
+
+Se utilizará una combinación de **Scrum + Kanban**.
+
+**Scrum** permite organizar el desarrollo en sprints cortos de 1 semana, con entregas incrementales y revisiones periódicas. Se aplicará para planificar y ejecutar las funcionalidades por etapas.
+
+**Kanban** permite visualizar el estado del trabajo en un tablero con las siguientes columnas:
+
+`Backlog | To Do | In Progress | In Review | Done`
+
+**Justificación:** La combinación permite adaptarse rápidamente a cambios en los requerimientos (detectados durante entrevistas con peluquerías), manteniendo visibilidad del avance en todo momento. Los sprints cortos reducen el riesgo de desvío y el tablero Kanban facilita la coordinación entre los integrantes del equipo.
+
+---
+
+## Versión
+
+v0.3 — Metodología ágilS
