@@ -107,3 +107,25 @@ Tablero Kanban en Trello: https://trello.com/b/n2RQEutD/parcial-2-ap-acn5av-cana
 ## Versión
 
 v0.5 - Tablero de seguimiento
+
+---
+
+## Ajuste de metodología
+
+Durante el desarrollo se detectó que el equipo recibía frecuentes cambios en los
+requerimientos por parte de las peluquerías entrevistadas, especialmente sobre la
+forma de confirmar y cancelar turnos.
+
+Para adaptarse a esta situación se tomaron las siguientes decisiones:
+- Reducir la duración de los sprints de 2 semanas a 1 semana.
+- Reforzar el uso del tablero Kanban para visualizar cambios de prioridad.
+- Incorporar una reunión de revisión al final de cada sprint para ajustar el backlog.
+
+De esta manera el equipo puede responder más rápido a los cambios sin perder
+control sobre el avance del proyecto.
+
+---
+
+## Versión
+
+v0.7 — Ajuste de metodología
