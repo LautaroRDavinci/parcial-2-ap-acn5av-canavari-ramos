@@ -67,3 +67,31 @@ Se utilizará una combinación de **Scrum + Kanban**.
 ## Versión
 
 v0.3 — Metodología ágilS
+
+---
+
+## Requerimientos — Historias de Usuario
+
+### Milestone 1: Gestión básica de turnos
+- HU-01: Como cliente, quiero ver los horarios disponibles para elegir cuándo asistir.
+- HU-02: Como cliente, quiero solicitar un turno para reservar mi atención.
+- HU-03: Como cliente, quiero cancelar un turno para liberar el horario si no puedo asistir.
+- HU-04: Como administrador, quiero ver todos los turnos del día para organizar la agenda.
+
+### Milestone 2: Gestión de servicios y profesionales
+- HU-05: Como administrador, quiero cargar servicios con nombre, duración y precio para ofrecerlos en la app.
+- HU-06: Como administrador, quiero editar los precios de los servicios para mantener la información actualizada.
+- HU-07: Como administrador, quiero registrar profesionales para asignarles turnos.
+- HU-08: Como cliente, quiero elegir el servicio que necesito antes de confirmar el turno.
+
+### Milestone 3: Panel de administración del negocio
+- HU-09: Como administrador, quiero confirmar o rechazar turnos solicitados para controlar la agenda.
+- HU-10: Como administrador, quiero ver el estado de cada turno para saber si está pendiente, confirmado, cancelado o finalizado.
+- HU-11: Como peluquero, quiero ver mis turnos asignados para organizar mi jornada.
+- HU-12: Como dueño, quiero ver un resumen básico de turnos del día para controlar la actividad del negocio.
+
+---
+
+## Versión
+
+v0.4 — Historias de usuario
