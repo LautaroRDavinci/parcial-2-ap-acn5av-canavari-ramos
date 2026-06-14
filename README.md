@@ -95,3 +95,15 @@ v0.3 — Metodología ágilS
 ## Versión
 
 v0.4 — Historias de usuario
+
+---
+
+## Tablero de seguimiento
+
+Tablero Kanban en Trello: https://trello.com/b/n2RQEutD/parcial-2-ap-acn5av-canavari-ramos?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite
+
+---
+
+## Versión
+
+v0.5 - Tablero de seguimiento
